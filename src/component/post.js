@@ -15,7 +15,7 @@ const post = ({ article }) => {
           alt={name}
           title={name}
         />
-      )} */}
+      )} */ }
       <section>{description}</section>
     </div>
   );
