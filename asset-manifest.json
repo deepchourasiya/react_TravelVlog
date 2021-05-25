@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deepchourasiya/react_TravelVlog/static/css/main.24e5bc41.chunk.css",
+    "main.js": "/deepchourasiya/react_TravelVlog/static/js/main.6efcb781.chunk.js",
+    "main.js.map": "/deepchourasiya/react_TravelVlog/static/js/main.6efcb781.chunk.js.map",
+    "runtime-main.js": "/deepchourasiya/react_TravelVlog/static/js/runtime-main.13070f7c.js",
+    "runtime-main.js.map": "/deepchourasiya/react_TravelVlog/static/js/runtime-main.13070f7c.js.map",
+    "static/js/2.223755a0.chunk.js": "/deepchourasiya/react_TravelVlog/static/js/2.223755a0.chunk.js",
+    "static/js/2.223755a0.chunk.js.map": "/deepchourasiya/react_TravelVlog/static/js/2.223755a0.chunk.js.map",
+    "index.html": "/deepchourasiya/react_TravelVlog/index.html",
+    "static/css/main.24e5bc41.chunk.css.map": "/deepchourasiya/react_TravelVlog/static/css/main.24e5bc41.chunk.css.map",
+    "static/js/2.223755a0.chunk.js.LICENSE.txt": "/deepchourasiya/react_TravelVlog/static/js/2.223755a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/deepchourasiya/react_TravelVlog/static/media/bg.9b96ca58.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13070f7c.js",
+    "static/js/2.223755a0.chunk.js",
+    "static/css/main.24e5bc41.chunk.css",
+    "static/js/main.6efcb781.chunk.js"
+  ]
+}
