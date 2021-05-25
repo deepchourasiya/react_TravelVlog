@@ -11,10 +11,10 @@ class App extends React.Component {
   componentDidMount() {
     client
       .getEntries()
-      .then((res) => {
-        console.log(res);
+      .then((response) => {
+        console.log("Response", response);
         this.setState({
-          articles: res.items,
+          articles: response.items,
         });
       })
       .catch(console.error);
